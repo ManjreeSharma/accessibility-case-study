@@ -63,7 +63,9 @@ Navigation becomes frustrating and inefficient.
 **Problems**
 
 1.Hidden slides are announced.
+
 2.Slide changes occur without notification.
+
 3.Previous and Next buttons are not clearly identified.
 
 **Result**
@@ -75,7 +77,9 @@ Users lose context and cannot confidently understand their location within the c
 **Problems**
 
 1.Automatic slide movement creates distractions.
+
 2.Users cannot pause or control animation.
+
 3.Information changes before it can be read.
 
 **Result**
@@ -87,6 +91,7 @@ Increased cognitive load and reduced comprehension.
 **Problems**
 
 1.Insufficient contrast on navigation controls.
+
 2.Focus indicators are difficult to perceive.
 
 **Result**
