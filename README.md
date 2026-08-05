@@ -9,6 +9,10 @@ Thank you for visiting my Digital Accessibility case study. I'm passionate about
 
 **Created by Manjree Sharma** | Senior Accessibility Consultant + UX Designer 
 
-[LinkedIn](https://www.linkedin.com/in/manjree/) | 
-[Medium](https://medium.com/@manjree.sharma.in) | 
+Email : manjree.sharma.in@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/manjree/) 
+
+[Medium](https://medium.com/@manjree.sharma.in) 
+
 [Github](https://github.com/ManjreeSharma/UX-designer-portfolio)
